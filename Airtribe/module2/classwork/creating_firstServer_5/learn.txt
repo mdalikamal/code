@@ -1,0 +1,19 @@
+{
+          "name": "creating_firstserver",
+          "version": "1.0.0",
+          "description": "",
+          "main": "index.js",
+          "scripts": {
+            "start or dev or anythings we can pass <leela sheelela nila mala whatever its kind of container >": "node app.js" 
+             
+            
+             //in palce of start we can use dev and duing that when makeing changes we don't want the restart the server evey timne for that we should add node mon in as deve dependencies in package json instead of restarting server evey time for that we "npm install nodemon --seve-dev after installing nodemon we replace node with nodemon<by the help of this we won't be have to restart the server nodemon will be takeing care of everything >" 
+             for running in the npm run rj<container name>
+          },
+          "author": "",
+          "license": "ISC",
+          "dependencies": {
+            "express": "^4.18.2"
+          }
+        }
+         
