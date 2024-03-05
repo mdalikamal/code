@@ -27,11 +27,7 @@ readSyncWriteSync();
 
 }
 readAsync_writesync();
-
-
-
-
-          function readFileSync_writeFileAsync()
+function readFileSync_writeFileAsync()
           {
           console.log("read sync");
           const data =fs.readFileSync('./AFM-source/file.txt',{encoding:'utf8',flag:'r'});
