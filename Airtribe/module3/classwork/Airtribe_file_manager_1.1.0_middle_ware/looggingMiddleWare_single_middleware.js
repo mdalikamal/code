@@ -11,6 +11,7 @@ function logger(req, res, next) {
     `
           ` + req.url
   );
+  next();
 }
 app.use(logger);
 
