@@ -32,8 +32,10 @@ Start the server:
                            
                            Get all tasks:
                               curl http://localhost:3000/tasks
-
-
+                           
+                           Get particular  tasks:
+                              curl http://localhost:3000/tasks/:id
+                         
                            Create a new task:
                               curl -X POST http://localhost:3000/tasks -H "Content-Type: application/json" -d "{\"title\":\"New Task\",\"description\":\"Description of the new task\",\"completed\":false}"
 
