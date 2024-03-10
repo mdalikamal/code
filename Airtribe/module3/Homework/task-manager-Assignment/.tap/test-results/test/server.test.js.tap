@@ -3,12 +3,12 @@ Server is listening on 3000
 # Subtest: POST /tasks
     ok 1 - should be equal
     1..1
-ok 1 - POST /tasks # time=93.129ms
+ok 1 - POST /tasks # time=51.051ms
 
 # Subtest: POST /tasks with invalid data
     ok 1 - should be equal
     1..1
-ok 2 - POST /tasks with invalid data # time=9.07ms
+ok 2 - POST /tasks with invalid data # time=8.744ms
 
 [90mundefined[39m
 # Subtest: GET /tasks
@@ -22,42 +22,42 @@ ok 2 - POST /tasks with invalid data # time=9.07ms
     ok 8 - type is string
     ok 9 - type is boolean
     1..9
-ok 3 - GET /tasks # time=16.266ms
+ok 3 - GET /tasks # time=11.699ms
 
 # Subtest: GET /tasks/:id
     ok 1 - should be equal
     ok 2 - should match pattern
     1..2
-ok 4 - GET /tasks/:id # time=12.14ms
+ok 4 - GET /tasks/:id # time=14.898ms
 
 # Subtest: GET /tasks/:id with invalid id
     ok 1 - should be equal
     1..1
-ok 5 - GET /tasks/:id with invalid id # time=8.76ms
+ok 5 - GET /tasks/:id with invalid id # time=12.567ms
 
 # Subtest: PUT /tasks/:id
     ok 1 - should be equal
     1..1
-ok 6 - PUT /tasks/:id # time=16.247ms
+ok 6 - PUT /tasks/:id # time=13.735ms
 
 # Subtest: PUT /tasks/:id with invalid id
     ok 1 - should be equal
     1..1
-ok 7 - PUT /tasks/:id with invalid id # time=11.136ms
+ok 7 - PUT /tasks/:id with invalid id # time=10.768ms
 
 # Subtest: PUT /tasks/:id with invalid data
     ok 1 - should be equal
     1..1
-ok 8 - PUT /tasks/:id with invalid data # time=7.993ms
+ok 8 - PUT /tasks/:id with invalid data # time=11.555ms
 
 # Subtest: DELETE /tasks/:id
     ok 1 - should be equal
     1..1
-ok 9 - DELETE /tasks/:id # time=13.831ms
+ok 9 - DELETE /tasks/:id # time=17.587ms
 
 # Subtest: DELETE /tasks/:id with invalid id
     ok 1 - should be equal
     1..1
-ok 10 - DELETE /tasks/:id with invalid id # time=9.858ms
+ok 10 - DELETE /tasks/:id with invalid id # time=13.12ms
 
 1..10
