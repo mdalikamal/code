@@ -13,11 +13,12 @@ function readSyncWriteSync() {
   });
   console.log("data writen");
 }
+readSyncWriteSync();
 
 function readAsync_writesync() {
   fs.readFile("./AFM-source/file.txt", "utf-8", (err, data) => {
     if (!err) console.log(`readAsync_writesync` + data);
-    let ata = data + `read``ing file async writing sync `;
+    let ata = data + `reading file async writing sync `;
     fs.writeFileSync(
       "./AFM-destination/output_ASync_read_write_Sync.txt",
       ata,
@@ -26,7 +27,7 @@ function readAsync_writesync() {
     console.log("readAsync_writesync data writen");
   });
 }
-
+readAsync_writesync();
 function readFileSync_writeFileAsync() {
   console.log("readFileSync_writeFileAsync read sync");
   const data = fs.readFileSync("./AFM-source/file.txt", {
@@ -48,7 +49,7 @@ function readFileSync_writeFileAsync() {
   );
   console.log("every thing done");
 }
-
+readFileSync_writeFileAsync();
 function read_Async_write_Async() {
   const data = fs.readFile(
     "./AFM-source/file.txt",
@@ -74,7 +75,5 @@ function read_Async_write_Async() {
     }
   );
 }
-readAsync_writesync();
-// readFileSync_writeFileAsync();
-//read_Async_write_Async();
-//readSyncWriteSync();
+
+read_Async_write_Async();
