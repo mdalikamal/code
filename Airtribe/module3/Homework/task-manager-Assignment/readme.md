@@ -17,7 +17,7 @@ npm install
 Start the server:
 npm start
 
-API Endpoints:
+                                                        API Endpoints:
 GET /tasks: 
            Retrieve all tasks.
 GET /tasks/:id: 
