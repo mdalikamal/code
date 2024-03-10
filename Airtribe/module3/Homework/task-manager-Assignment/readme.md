@@ -18,12 +18,18 @@ Start the server:
 npm start
 
 API Endpoints:
-GET /tasks: Retrieve all tasks.
-GET /tasks/:id: Retrieve a task by ID.
-POST /tasks: Create a new task.
-PUT /tasks/:id: Update a task by ID.
-DELETE /tasks/:id: Delete a task by ID.
-GET /tasks/priority/:level: Retrieve tasks by priority level.
+GET /tasks: 
+           Retrieve all tasks.
+GET /tasks/:id: 
+             Retrieve a task by ID.
+POST /tasks: 
+          Create a new task.
+PUT /tasks/:id:
+            Update a task by ID.
+DELETE /tasks/:id:
+              Delete a task by ID.
+GET /tasks/priority/:level: 
+            Retrieve tasks by priority level.
 
 
 Usage
