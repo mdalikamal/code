@@ -29,7 +29,9 @@ Start the server:
 
 
 
-                        You can test the API using Postman or Curl. Here are some example requests:
+                       
+ You can test the API using Postman or Curl. Here are some example requests:
+                           
                            Get all tasks:
                               curl http://localhost:3000/tasks
 
@@ -47,5 +49,5 @@ Start the server:
                                      
                                      
                                      
-                        Testing:
+Testing:
                             npm test     :![alt text](image.png)
