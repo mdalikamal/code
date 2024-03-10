@@ -47,5 +47,4 @@ curl -X DELETE http://localhost:3000/tasks/1
 Testing:
 npm test
 
-
 ![alt text](image.png)
