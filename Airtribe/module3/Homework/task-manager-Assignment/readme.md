@@ -10,6 +10,8 @@ Install dependencies:
 
 
 cd task-manager
+
+
 npm install
 
 Start the server:
@@ -28,13 +30,9 @@ Usage
 You can test the API using Postman or Curl. Here are some example requests:
 
 Get all tasks:
-
-
 curl http://localhost:3000/tasks
 
 Create a new task:
-
-
 curl -X POST http://localhost:3000/tasks -H "Content-Type: application/json" -d "{\"title\":\"New Task\",\"description\":\"Description of the new task\",\"completed\":false}"
 
 Update a task:
