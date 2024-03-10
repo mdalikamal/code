@@ -43,8 +43,8 @@ curl -X PUT http://localhost:3000/tasks/1 -H "Content-Type: application/json" -d
 Delete a task:
 curl -X DELETE http://localhost:3000/tasks/1
 
-Testing
+Testing:
 npm test
 
-npm test
+
 ![alt text](image.png)
