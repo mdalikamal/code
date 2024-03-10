@@ -7,11 +7,9 @@
                  git clone https://github.com/mdalikamal/code.git
 
                  2=> Install dependencies:
-                    cd Airtribe/module3/Homework/task-manager-Assignment
-Start the server:
+                    cd Airtribe/module3/Homework/task-manager-Assignment 
                     npm install
-
-    npm start
+                    npm start
 
                                                         API Endpoints:
       GET /tasks: 
