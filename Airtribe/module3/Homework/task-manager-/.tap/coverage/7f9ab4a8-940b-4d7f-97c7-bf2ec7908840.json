@@ -1,0 +1,346 @@
+{
+  "result": [
+    {
+      "scriptId": "804",
+      "url": "file:///C:/Users/mdome/Desktop/learning/javascript/runtime/code/Airtribe/module3/Homework/task-manager-/app.js",
+      "functions": [
+        {
+          "functionName": "",
+          "ranges": [
+            {
+              "startOffset": 0,
+              "endOffset": 520,
+              "count": 1
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "",
+          "ranges": [
+            {
+              "startOffset": 224,
+              "endOffset": 299,
+              "count": 0
+            }
+          ],
+          "isBlockCoverage": false
+        },
+        {
+          "functionName": "",
+          "ranges": [
+            {
+              "startOffset": 352,
+              "endOffset": 495,
+              "count": 1
+            },
+            {
+              "startOffset": 376,
+              "endOffset": 442,
+              "count": 0
+            }
+          ],
+          "isBlockCoverage": true
+        }
+      ]
+    },
+    {
+      "scriptId": "904",
+      "url": "file:///C:/Users/mdome/Desktop/learning/javascript/runtime/code/Airtribe/module3/Homework/task-manager-/src/routes/taskActions.js",
+      "functions": [
+        {
+          "functionName": "",
+          "ranges": [
+            {
+              "startOffset": 0,
+              "endOffset": 3254,
+              "count": 1
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "",
+          "ranges": [
+            {
+              "startOffset": 250,
+              "endOffset": 594,
+              "count": 1
+            },
+            {
+              "startOffset": 439,
+              "endOffset": 543,
+              "count": 0
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "",
+          "ranges": [
+            {
+              "startOffset": 486,
+              "endOffset": 535,
+              "count": 0
+            }
+          ],
+          "isBlockCoverage": false
+        },
+        {
+          "functionName": "",
+          "ranges": [
+            {
+              "startOffset": 622,
+              "endOffset": 868,
+              "count": 2
+            },
+            {
+              "startOffset": 765,
+              "endOffset": 867,
+              "count": 1
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "",
+          "ranges": [
+            {
+              "startOffset": 719,
+              "endOffset": 747,
+              "count": 17
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "",
+          "ranges": [
+            {
+              "startOffset": 894,
+              "endOffset": 1691,
+              "count": 2
+            },
+            {
+              "startOffset": 986,
+              "endOffset": 1689,
+              "count": 1
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "",
+          "ranges": [
+            {
+              "startOffset": 1077,
+              "endOffset": 1123,
+              "count": 15
+            },
+            {
+              "startOffset": 1117,
+              "endOffset": 1122,
+              "count": 0
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "",
+          "ranges": [
+            {
+              "startOffset": 1324,
+              "endOffset": 1540,
+              "count": 1
+            },
+            {
+              "startOffset": 1356,
+              "endOffset": 1464,
+              "count": 0
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "",
+          "ranges": [
+            {
+              "startOffset": 1719,
+              "endOffset": 2551,
+              "count": 3
+            },
+            {
+              "startOffset": 1889,
+              "endOffset": 1951,
+              "count": 1
+            },
+            {
+              "startOffset": 1951,
+              "endOffset": 1998,
+              "count": 2
+            },
+            {
+              "startOffset": 1998,
+              "endOffset": 2549,
+              "count": 1
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "",
+          "ranges": [
+            {
+              "startOffset": 2051,
+              "endOffset": 2079,
+              "count": 1
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "",
+          "ranges": [
+            {
+              "startOffset": 2251,
+              "endOffset": 2467,
+              "count": 1
+            },
+            {
+              "startOffset": 2283,
+              "endOffset": 2391,
+              "count": 0
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "",
+          "ranges": [
+            {
+              "startOffset": 2582,
+              "endOffset": 3221,
+              "count": 2
+            },
+            {
+              "startOffset": 2746,
+              "endOffset": 3219,
+              "count": 1
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "",
+          "ranges": [
+            {
+              "startOffset": 2689,
+              "endOffset": 2717,
+              "count": 16
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "",
+          "ranges": [
+            {
+              "startOffset": 2917,
+              "endOffset": 3137,
+              "count": 1
+            },
+            {
+              "startOffset": 2949,
+              "endOffset": 3057,
+              "count": 0
+            }
+          ],
+          "isBlockCoverage": true
+        }
+      ]
+    },
+    {
+      "scriptId": "905",
+      "url": "file:///C:/Users/mdome/Desktop/learning/javascript/runtime/code/Airtribe/module3/Homework/task-manager-/src/helpers/controller.js",
+      "functions": [
+        {
+          "functionName": "",
+          "ranges": [
+            {
+              "startOffset": 0,
+              "endOffset": 1339,
+              "count": 1
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "validateTaskInfo",
+          "ranges": [
+            {
+              "startOffset": 30,
+              "endOffset": 523,
+              "count": 4
+            },
+            {
+              "startOffset": 238,
+              "endOffset": 280,
+              "count": 3
+            },
+            {
+              "startOffset": 358,
+              "endOffset": 399,
+              "count": 3
+            },
+            {
+              "startOffset": 432,
+              "endOffset": 457,
+              "count": 3
+            },
+            {
+              "startOffset": 459,
+              "endOffset": 522,
+              "count": 2
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "validateTaskInfoForUpdate",
+          "ranges": [
+            {
+              "startOffset": 536,
+              "endOffset": 1183,
+              "count": 0
+            }
+          ],
+          "isBlockCoverage": false
+        },
+        {
+          "functionName": "validateTaskId",
+          "ranges": [
+            {
+              "startOffset": 1196,
+              "endOffset": 1307,
+              "count": 3
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "",
+          "ranges": [
+            {
+              "startOffset": 1267,
+              "endOffset": 1299,
+              "count": 18
+            }
+          ],
+          "isBlockCoverage": true
+        }
+      ]
+    }
+  ],
+  "timestamp": 713.90902,
+  "source-map-cache": {}
+}

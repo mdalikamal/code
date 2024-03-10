@@ -47,6 +47,5 @@ curl -X DELETE http://localhost:3000/tasks/1
 Testing
 To run tests, use the following command:
 
-sh
-Copy code
 npm test
+![alt text](image.png)
