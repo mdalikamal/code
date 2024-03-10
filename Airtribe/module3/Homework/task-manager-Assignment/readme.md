@@ -3,28 +3,28 @@
 - This is a RESTful API for a simple task manager application. It allows users to perform CRUD operations on tasks, including creating, reading, updating, and deleting tasks.
 
                                                           Setup
-        Clone the repository:
+                 1=>Clone the repository:
                  git clone https://github.com/your-username/task-manager.git
 
-Install dependencies:
-     cd task-manager
-      npm install
+                 2=> Install dependencies:
+                    cd task-manager
+                    npm install
 
 Start the server:
     npm start
 
                                                         API Endpoints:
-GET /tasks: 
-           Retrieve all tasks.
-GET /tasks/:id: 
-             Retrieve a task by ID.
-POST /tasks: 
-          Create a new task.
-PUT /tasks/:id:
+      GET /tasks: 
+            Retrieve all tasks.
+      GET /tasks/:id: 
+            Retrieve a task by ID.
+      POST /tasks: 
+            Create a new task.
+      PUT /tasks/:id:
             Update a task by ID.
-DELETE /tasks/:id:
-              Delete a task by ID.
-GET /tasks/priority/:level: 
+      DELETE /tasks/:id:
+            Delete a task by ID.
+      GET /tasks/priority/:level: 
             Retrieve tasks by priority level.
 
 
