@@ -28,23 +28,24 @@ Start the server:
             Retrieve tasks by priority level.
 
 
-Usage
-You can test the API using Postman or Curl. Here are some example requests:
 
-Get all tasks:
-     curl http://localhost:3000/tasks
-
-Create a new task:
-            curl -X POST http://localhost:3000/tasks -H "Content-Type: application/json" -d "{\"title\":\"New Task\",\"description\":\"Description of the new task\",\"completed\":false}"
-
-Update a task:
-      curl -X PUT http://localhost:3000/tasks/1 -H "Content-Type: application/json" -d "{\"title\":\"Updated Task\",\"description\":\"Updated description\",\"completed\":true}"
+                        You can test the API using Postman or Curl. Here are some example requests:
+                           Get all tasks:
+                              curl http://localhost:3000/tasks
 
 
-Delete a task:
-        curl -X DELETE http://localhost:3000/tasks/1
+                           Create a new task:
+                              curl -X POST http://localhost:3000/tasks -H "Content-Type: application/json" -d "{\"title\":\"New Task\",\"description\":\"Description of the new task\",\"completed\":false}"
 
-Testing:
-npm test
+                            Update a task:
+                               curl -X PUT http://localhost:3000/tasks/1 -H "Content-Type: application/json" -d "{\"title\":\"Updated Task\",\"description\":\"Updated description\",\"completed\":true}"
 
-![alt text](image.png)
+
+                            Delete a task:
+                               curl -X DELETE http://localhost:3000/tasks/1
+
+                                     
+                                     
+                                     
+                        Testing:
+                            npm test     :![alt text](image.png)
