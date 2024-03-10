@@ -24,8 +24,6 @@ Start the server:
             Update a task by ID.
       DELETE /tasks/:id:
             Delete a task by ID.
-      GET /tasks/priority/:level: 
-            Retrieve tasks by priority level.
 
 
 
