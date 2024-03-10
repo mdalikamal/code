@@ -4,13 +4,13 @@
 
                                                           Setup
                  1=>Clone the repository:
-                 git clone https://github.com/your-username/task-manager.git
+                 git clone https://github.com/mdalikamal/code.git
 
                  2=> Install dependencies:
-                    cd task-manager
+                    cd Airtribe/module3/Homework/task-manager-Assignment
+Start the server:
                     npm install
 
-Start the server:
     npm start
 
                                                         API Endpoints:
