@@ -1,6 +1,6 @@
                                                    Task Manager API:
 
-- This is a RESTful API for a simple task manager application. It allows users to perform CRUD operations on tasks, including creating, reading, updating, and deleting tasks.
+ This is a RESTful API for a simple task manager application. It allows users to perform CRUD operations on tasks, including creating, reading, updating, and deleting tasks.
 
                                                           Setup
                  1=>Clone the repository:
