@@ -12,7 +12,7 @@ class validator {
     )
       return {
         status: true,
-        message: `course has been validated  `,
+        message: `course has been validated`,
       };
     else {
       return {
